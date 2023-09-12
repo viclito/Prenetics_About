@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "img":"prod1.webp",
+        "title":"Premium DNA Test",
+        "discription":"500+ Reports, 20 Categories covering every test CircleDNA has to offer"
+
+    },
+    {
+        "id":2,
+        "img":"prod2.webp",
+        "title":"Vital DNA Test",
+        "discription":"135+ Reports, 14 Categories including Diet, Exercise, and Lifestyle"
+
+    },
+    {
+        "id":3,
+        "img":"prod3.webp",
+        "title":"Family Planning DNA Test",
+        "discription":"160+ Reports including screens for all major carrier conditions"
+
+    },
+    {
+        "id":4,
+        "img":"prod4.webp",
+        "title":"Health DNA Test",
+        "discription":"115+ Reports, 14 Categories including Cancer, Common Health, and Disease Risk"
+
+    }
+
+]

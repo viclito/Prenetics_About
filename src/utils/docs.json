@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "img":"doc1.webp",
+        "Name":"Prof. Michael M Yang, PhD",
+        "studies":"VP (Research and Technology), Yeung Kin-Man Chair Professor of Biomedical Sciences, City University of Hong Kong"
+    },
+
+    {
+        "id":2,
+        "img":"doc2.webp",
+        "Name":"Prof. Stephen Tsui, PhD",
+        "studies":"Head of Division of Genomics and Bioinformatics, The Chinese University of Hong Kong"
+    },
+
+    {
+        "id":3,
+        "img":"doc3.webp",
+        "Name":"Dr. Lawrence Tzang, PhD",
+        "studies":"Chief Scientific Officer & Co-founder, Prenetics"
+    },
+
+    {
+        "id":4,
+        "img":"doc4.webp",
+        "Name":"Dr. Senthil Sundaram, MD",
+        "studies":"Chief Clinical Officer, Prenetics"
+    }
+]
